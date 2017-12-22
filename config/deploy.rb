@@ -2,7 +2,7 @@
 lock "~> 3.10.1"
 
 set :application, "note_book_api"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, "git@github.com:AlexAslam/note_book_api.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
